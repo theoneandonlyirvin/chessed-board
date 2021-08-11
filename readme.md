@@ -3,6 +3,8 @@
 
 A simple, canvas-based, implementation of a chess board.
 
+![Example 1](https://github.com/budgecode/chessed-board/screenshots/basic_screenshot.png)
+
 ## Design
 
 The chess board component is built using 6 canvas elements stacked on top of one another organized in the following manner.
