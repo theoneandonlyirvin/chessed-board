@@ -3,7 +3,7 @@
 
 A simple, canvas-based, implementation of a chess board.
 
-![Example 1](https://github.com/budgecode/chessed-board/tree/master/screenshots/basic_screenshot.png)
+![Example 1](screenshots/basic_screenshot.png)
 
 ## Design
 
